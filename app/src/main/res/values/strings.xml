@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tres en Raya</string>
+    <string name="reiniciar_el_juego">Reiniciar el Juego</string>
+    <string name="ver_resultados">Ver Resultados</string>
+    <string name="ganador_jugador_1">¡Ganador: Jugador 1!</string>
+    <string name="ganador_jugador_2">¡Ganador: Jugador 2!</string>
+    <string name="nadie_gan">Nadie ganó</string>
+</resources>
